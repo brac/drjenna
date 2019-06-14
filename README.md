@@ -1,3 +1,25 @@
+#Dr. Jenna's website
+
+##TODO:
+[ ] Gather Sources
+	* example sites
+	* photos / media
+[ ] Plan Features
+	[ ] Instagram
+	[ ] facebook
+	[ ] blog
+[ ] Outline
+[ ] Extras
+	[ ] Canvas
+	[ ] LGBTQ Rainbow
+[ ] Choose framework
+	* React
+	* Typescript
+	* Jest
+	* S3
+	* Lambda
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
