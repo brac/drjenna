@@ -3,6 +3,11 @@
 ##TODO:
 [x] Gather Sources
 	* example sites
+	React Examples:
+	- https://abstraction.games/project/heroes-of-loot
+	- https://moedascomemorativas.pt/
+	- https://planetary.co/
+	- https://findingctrl.nesta.org.uk/
 	Real Good:
 	- https://www.talkspace.com/
 	- https://www.uncommonlovepdx.com/
