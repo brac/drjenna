@@ -1,18 +1,50 @@
 #Dr. Jenna's website
 
 ##TODO:
-[ ] Gather Sources
+[x] Gather Sources
 	* example sites
+	Real Good:
+	- https://www.talkspace.com/
+	- https://www.uncommonlovepdx.com/
+	- https://brenebrown.com/
+	- http://www.heidireeder.com/	
+	Good:
+	- https://terricole.com/
+	- https://rebeccaclegg.com/
+	- https://www.lenafranklin.com/
+	- https://www.therapysites.com/designs/?do=preview&template=2&color=2
+	- https://integrativepsychotherapist.org/contact/
+	- https://palettepartners.com/consultation-for-clinicians/
+	- https://aiikunagapsyd.com/
+	- http://groundpdx.com/traditional-therapy/
 	* photos / media
+
 [ ] Plan Features
 	[ ] Instagram
 	[ ] facebook
+	[ ] scheduler
 	[ ] blog
-[ ] Outline
+	[ ] animated navigation header
+	[ ] Video header image
+	[ ] animated sections on render
+		- like a grid of sections; about, contact, media, books, etc
+	[ ] musing, inspirations and quotes section. Gird with animated quote reveals on hover
+	[ ] loading animation
+	[ ] newsletter(?)
+	[ ] Sex satisfaction facts in a little grid widget(?)
+[ ] Sections
+	[ ] About
+	[ ] Services
+	[ ] Contact
+	[ ] Consultation(?)
+	[ ] Coaching(?)
+	[ ] How therapy works(?)
+[ ] Outline Site
 [ ] Extras
-	[ ] Canvas
+	[ ] Canvas animation
 	[ ] LGBTQ Rainbow
-[ ] Choose framework
+
+[x] Choose framework
 	* React
 	* Typescript
 	* Jest
