@@ -24,37 +24,31 @@
 	- http://groundpdx.com/traditional-therapy/
 	* photos / media
 
-[ ] Plan Features
-	[ ] Instagram
-	[ ] facebook
-	[ ] scheduler
-	[ ] blog
+[x] Outline Site
+	[ ] Long single page with schedule at the bottom
+		[ ] animated sections on render / scroll into view
+			- like a grid of sections; about, contact, media, books, etc
+	[ ] Sections
+		[ ] About
+		[ ] Services
+		[ ] Contact
+		[ ] LGBT
+			[ ] Rainbow on select
+		[ ] Consultation(?)
+		[ ] Coaching(?)
+	[ ] Large Nav
 	[ ] animated navigation header
-	[ ] Video header image
-	[ ] animated sections on render
-		- like a grid of sections; about, contact, media, books, etc
-	[ ] musing, inspirations and quotes section. Gird with animated quote reveals on hover
+	[ ] Instagram
+	[ ] scheduler
+	[ ] facebook
+	[ ] blog
+	[ ] musing, inspirations and quotes section. Gird with animated quote reveals on hover, Quote Widget
 	[ ] loading animation
 	[ ] newsletter(?)
-	[ ] Sex satisfaction facts in a little grid widget(?)
-[ ] Sections
-	[ ] About
-	[ ] Services
-	[ ] Contact
-	[ ] Consultation(?)
-	[ ] Coaching(?)
-	[ ] How therapy works(?)
-[ ] Outline Site
-[ ] Extras
-	[ ] Canvas animation
-	[ ] LGBTQ Rainbow
+	[ ] Sex satisfaction facts in a little grid widget(?), Random Quote Widget
 
-[x] Choose framework
-	* React
-	* Typescript
-	* Jest
-	* S3
-	* Lambda
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -63,7 +57,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

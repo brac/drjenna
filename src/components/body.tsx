@@ -1,9 +1,19 @@
 import React from 'react';
+// import styles from './Body.module.scss'
+import NavMenu from './NavMenu'
 
 const Body= () => {
   return (
-    <h2>I am the body, or will be</h2>
-  )
+    <NavMenu/>
+    // <LandingPage/>
+    // <About/>
+    // <Services/>
+    // <LGBT/>
+    // <Consultation/>
+    // <Instagram/>
+    // <Facebook/>
+    // <Scheduler/>
+  );
 };
 
 export default Body;
