@@ -4,7 +4,10 @@ import NavMenu from './NavMenu'
 
 const Body= () => {
   return (
-    <NavMenu/>
+    <div className="section">
+        <NavMenu/>    
+    </div>
+    
     // <LandingPage/>
     // <About/>
     // <Services/>
