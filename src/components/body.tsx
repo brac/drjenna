@@ -1,5 +1,4 @@
 import React from 'react';
-// import styles from './Body.module.scss'
 import NavMenu from './navMenu'
 import LandingPage from './landingPage'
 import About from './about'

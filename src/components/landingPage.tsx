@@ -2,7 +2,9 @@ import React from 'react'
 
 const LandingPage = () => {
   return(
-    <div>I am the landing page</div>
+    <div>
+      <p>Welcome to Dr. Jenna's Landing LandingPage</p>
+    </div>
   )
 }
 
