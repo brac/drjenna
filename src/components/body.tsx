@@ -1,6 +1,6 @@
 import React from 'react';
 import NavMenu from './navMenu'
-import LandingPage from './landingPage'
+import Welcome from './welcome'
 import About from './about'
 import Services from './services'
 import LGBTQ from './lgbtq'
@@ -13,7 +13,7 @@ const Body= () => {
   return (
     <div className="sections">
       <NavMenu/>    
-      <LandingPage/>
+      <Welcome/>
       <About/>
       <Services/>
       <LGBTQ/>

@@ -4,7 +4,8 @@ import './NavStyles.sass'
 const NavMenu = () => {
   return (
     <div className="nav">
-    	<ul className="nav-list">
+      <ul className="nav-list">
+        <li className="nav-logo">DrJ</li>
         <li><a href="#welcome">Welcome</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#services">Services</a></li>
