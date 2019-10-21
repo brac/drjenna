@@ -1,5 +1,5 @@
 import React from 'react';
-import './NavStyles.sass'
+import './navStyles.sass'
 
 const NavMenu = () => {
   return (
