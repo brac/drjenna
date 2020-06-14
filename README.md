@@ -1,6 +1,59 @@
 #Dr. Jenna's website
+Inspiration Site: https://www.marydioriolcsw.com/
 
-##TODO:
+##TODO
+
+[x] Plan elements
+	[x] Jenna Blurb
+	[x] FAQ
+	[x] Rates
+	[x] Header
+	[x] Footer
+	[x] Sign up Widget
+
+[ ] Build Elements
+
+[ ] Get Images 
+	[ ] faveicon
+	[ ] Logo Image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##TODO OLD:
 [x] Gather Sources
 	* example sites
 	React Examples:

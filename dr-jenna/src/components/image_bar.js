@@ -3,7 +3,14 @@ import { Link } from "gatsby"
 
 const ImageBar = () => (
  
-    <div class="test" id="background-image" style={{height: '200px', border: 'red dashed 1px'}}>
+    <div
+      style={{
+        margin: `0 auto`,
+        maxWidth: 1024,
+        padding: `0 1rem 1.5rem`,
+        border: `1px red dashed`
+      }}
+      >
       <p>Neat picture thing</p>
     </div>
 )
