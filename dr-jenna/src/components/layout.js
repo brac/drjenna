@@ -29,15 +29,22 @@ const Layout = ({ children }) => {
       <div
         style={{
           margin: `0 auto`,
-          maxWidth: 960,
+          maxWidth: 1024,
+          // maxWidth: 960,
           padding: `0 1rem 1.5rem`,
         }}
       >
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built by
-          {` `}
-          <a href="http://www.benbracamonte.com">Ben</a>
+        
+        <footer
+          style={{textAlign: `center`,}}>
+          
+          <div id="footer" style={{height: '200px', border: 'pink dashed 1px'}}>
+            © {new Date().getFullYear()}, Built by
+            {` `}
+            <a href="http://www.benbracamonte.com">Ben</a>
+          </div>
+        
         </footer>
       </div>
     </>
