@@ -6,7 +6,7 @@ const ImageBar = () => (
     <div
       style={{
         margin: `0 auto`,
-        maxWidth: 1024,
+        maxWidth: `100%`,
         padding: `0 1rem 1.5rem`,
         border: `1px red dashed`
       }}
