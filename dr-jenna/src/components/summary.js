@@ -5,7 +5,7 @@ const Summary = () => (
     <div id="summary" style={{
         height: '400px', 
         border: 'blue dashed 1px',
-        width: `60%`,
+        maxWidth: `1024px`,
         margin: `auto`  
       }}>
       <h3>Professional Title</h3>

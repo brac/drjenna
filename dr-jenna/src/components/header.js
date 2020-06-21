@@ -2,6 +2,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import headerStyles from "./header.module.css"
+import HeaderNavList from "./header_list"
 
 const Header = ({ siteTitle }) => (
   <header>
@@ -14,31 +15,7 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
-      
-      
-        <ul  
-          className={headerStyles.header_nav}
-        >
-          <li>
-            <p><Link to="/about/">About</Link></p>
-          </li>
-          <li>
-            <p>
-              FAQS
-            </p>
-          </li>
-          <li>
-            <p>
-              Contact
-            </p>
-          </li>
-          <li>
-            <p>
-              LGBTQ
-            </p>
-          </li>
-        </ul>
-      
+        <HeaderNavList/>
     </div>
   </header>
 )
