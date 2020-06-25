@@ -2,20 +2,31 @@
 Inspiration Site: https://www.marydioriolcsw.com/
 
 ##TODO
-
-[x] Plan elements
-	[x] Jenna Blurb
-	[x] FAQ
-	[x] Rates
+[ ] Build Components
 	[x] Header
-	[x] Footer
-	[x] Sign up Widget
+		[ ] mobile
+	[.] image bar
+		[ ] Get final text
+		[ ] Get final Image
+		[ ] Movbile
+		[ ] Remove padding bottom
+		[ ] Remove adding sides
+	[ ] Summary component
 
-[ ] Build Elements
+[ ] Build Pages
+	[ ] About
+	[ ] FAQS
+	[ ] Contact
+	[ ] LGBTQ
+	[ ] Rates
 
 [ ] Get Images 
 	[ ] faveicon
 	[ ] Logo Image
+	[ ] Image bar
+		[ ] Longer image
+			[ ] Trim down current poppies image
+			[ ] Put text in there, save parralx for later
 
 
 
