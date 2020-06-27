@@ -1,0 +1,42 @@
+.container {
+    max-width: 1024px;
+    margin: auto;
+    padding-bottom: 5em;
+
+}
+
+.header {
+    text-align: center;
+}
+
+.header_identity {
+    margin-bottom: 0;
+}
+
+.body {
+    display: flex;
+}
+
+.image {
+    max-width: 320px;
+    margin-bottom: 0;
+}
+
+.description {
+    padding-left: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.button{
+    background-color: #99ccff;
+    padding: 1em;
+    align-self: flex-start;
+}
+
+.button_text{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}

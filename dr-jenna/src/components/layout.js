@@ -29,7 +29,6 @@ const Layout = ({ children }) => {
       <div
         style={{
           margin: `0 auto`,
-          // maxWidth: 1024,
           maxWidth: `100%`,
           // padding: `0 1rem 1.5rem`,
         }}
@@ -39,7 +38,7 @@ const Layout = ({ children }) => {
         <footer
           style={{textAlign: `center`,}}>
           
-          <div id="footer" style={{height: '200px', border: 'pink dashed 1px'}}>
+          <div id="footer" style={{ height: '200px', border: 'pink dashed 1px' }}>
             © {new Date().getFullYear()}, Built by
             {` `}
             <a href="http://www.benbracamonte.com">Ben</a>
