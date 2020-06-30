@@ -1,16 +1,54 @@
 import React from 'react'
-import { Link } from "gatsby"
+import ServiceCard from './services_card'
 
 const ServicesGrid = () => (
-    <div style={{ backgroundColor: `skyblue`, display: `flex`, height: `300px`, border: 'purple dashed 1px', marginBottom: `3em`}}>
-      
-      <div style={{backgroundColor: `pink`}}>
+    <div style={{
+      border: 'purple dashed 1px',
+      marginBottom: `3em`
+    }}>
+      <div style={{ 
+        display: `flex`, 
+        height: `300px`, 
+      }}>
         
+        <ServiceCard
+          color='teal'
+          service='LGBTQ'
+        />
+        
+        <ServiceCard
+          color='aqua'
+          service=''
+        />
+        
+        <ServiceCard
+          color='pink'
+          service='Couples Thereapy'
+        />
+
       </div>
-      
-      <div style={{backgroundColor: `teal`}}></div>
-      
+
+      <div style={{
+        display: `flex`, 
+        height: `300px`, 
+      }}>
+        <ServiceCard
+          color='yellow'
+          service='Assessment'
+        />
+        
+        <ServiceCard
+          color='skyblue'
+          service=''
+        />
+        
+        <ServiceCard
+          color='dodgerblue'
+          service='Gender Affirming'
+        />
+      </div>
     </div>
+
 )
 
 export default ServicesGrid

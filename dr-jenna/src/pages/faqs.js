@@ -1,9 +1,9 @@
 import React from "react"
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
-import ImageBar from "../components/image_bar"
+// import Image from "../components/image"
+// import ImageBar from "../components/image_bar"
 import SEO from "../components/seo"
 
 const Faqs = () => (

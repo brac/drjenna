@@ -9,30 +9,22 @@
     text-align: center;
 }
 
-.header_identity {
-    margin-bottom: 0;
-}
-
 .body {
     display: flex;
-}
-
-.image {
-    max-width: 320px;
-    margin-bottom: 0;
 }
 
 .description {
     padding-left: 2em;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    text-align: center;
 }
 
 .button{
     background-color: #99ccff;
     padding: 1em;
     align-self: flex-start;
+    margin: auto;
 }
 
 .button_text{
