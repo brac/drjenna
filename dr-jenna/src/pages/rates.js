@@ -1,14 +1,13 @@
 import React from "react"
-// import { Link } from "gatsby"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import CommingSoon from "../components/comming_soon"
 
 const Rates = () => (
   <Layout>
     <SEO title="Rates" />
     
-    <h1>This is the Rates Page</h1>
+    <CommingSoon/>
 
   </Layout>
 )

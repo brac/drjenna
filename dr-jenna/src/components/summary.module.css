@@ -22,12 +22,10 @@
 
 .button{
     background-color: #99ccff;
-    padding: 1em;
+    padding: 1.5em;
+    font-size: 1.25em;
     align-self: flex-start;
     margin: auto;
-}
-
-.button_text{
     text-decoration: none;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
