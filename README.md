@@ -8,10 +8,15 @@ Inspiration Site: https://www.marydioriolcsw.com/
 	[.] image bar
 		[ ] Get final text
 		[ ] Get final Image
-		[ ] Movbile
-		[ ] Remove padding bottom
-		[ ] Remove adding sides
-	[ ] Summary component
+		[ ] Mobile
+		[x] Remove padding bottom
+		[x] Remove adding sides
+		[ ] Don't let it strech on resize
+	[x] Summary component
+	[.] Services Grid
+		[ ] Images
+		[ ] Centered Text
+		[ ] Interesting font
 
 [ ] Build Pages
 	[ ] About
@@ -21,12 +26,39 @@ Inspiration Site: https://www.marydioriolcsw.com/
 	[ ] Rates
 
 [ ] Get Images 
+	[ ] Get pictures from the office
 	[ ] faveicon
 	[ ] Logo Image
-	[ ] Image bar
-		[ ] Longer image
-			[ ] Trim down current poppies image
-			[ ] Put text in there, save parralx for later
+	[x] Image bar
+		[x] Longer image
+			[x] Trim down current poppies image
+			[x] Put text in there, save parralx for later
+			
+
+Jenna Notes:
+Parralax
+Nest Services showing
+	Animated grid reveal
+		indiviul, partners, sexualitu (?), group, LGBTQ+, trainngs, consultations and supervisions
+	
+Consider moving the summary to the bottom, Jenna may not want to be front and center
+
+New thing up front:
+Title
+Paragraph
+Full width
+
+You might be struggingl
+we can all be down sometimes
+the journey is the destination
+
+
+Summary is now on about:
+Here is what I like to don the weekends
+Degree stuff
+Here's why I got into psychology
+
+
 
 
 

@@ -25,3 +25,4 @@ yarn-error.log*
 .jshintrc
 
 /dr-jenna/src/images/reference/*
+README.md
