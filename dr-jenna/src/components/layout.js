@@ -12,6 +12,8 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import "./layout.css"
 
+import footerStyles from "./footer.module.css"
+
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
@@ -35,10 +37,9 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         
-        <footer
-          style={{textAlign: `center`,}}>
+        <footer className={footerStyles.container}>
           
-          <div id="footer" style={{ height: '200px', border: 'pink dashed 1px' }}>
+          <div id="footer" className={footerStyles.footer_main_text} >
             © {new Date().getFullYear()}, Built by
             {` `}
             <a href="http://www.benbracamonte.com">Ben</a>
