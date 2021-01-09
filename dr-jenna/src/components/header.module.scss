@@ -1,5 +1,5 @@
 header {
-    background: #99ccff;
+    background: grey;
     margin-bottom: 1.5rem;    
 }
 
@@ -26,6 +26,11 @@ header {
 .header_nav li {
     float: left;
     padding: 0 1em;
+
+    @media screen and (max-width: 767px){
+        padding: 0 .2em;
+    }
+
 }
 
 .header_nav li p a{

@@ -14,14 +14,13 @@
 }
 
 .description {
-    padding-left: 2em;
     display: flex;
     flex-direction: column;
     text-align: center;
 }
 
 .button{
-    background-color: #99ccff;
+    background-color: grey;
     padding: 1.5em;
     font-size: 1.25em;
     align-self: flex-start;

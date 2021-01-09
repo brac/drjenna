@@ -1,6 +1,6 @@
 import React from "react"
 
-import imageBarStyles from "./imageBar.module.css"
+import imageBarStyles from "./imageBar.module.scss"
 
 const ImageBar = () => (
  
@@ -8,7 +8,7 @@ const ImageBar = () => (
       <div className={imageBarStyles.main_image}>
       </div>
       <h2 className={imageBarStyles.image_text}>
-        Try It
+        dr Jenna
       </h2>
     </div>
 )

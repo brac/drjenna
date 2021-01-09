@@ -3,7 +3,7 @@
 }
 
 .main_image {
-    background-image: url("../images/poppies_cropped.jpg");
+    background-image: url("../images/tulpis_croped.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: right;
@@ -18,4 +18,9 @@
     position: absolute;
     z-index: 2;
     color: white;
+
+    @media screen and (max-width: 767px){
+        left: 33px;
+        font-size: 4em;
+    }
 }
