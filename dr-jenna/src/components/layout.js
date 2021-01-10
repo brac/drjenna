@@ -38,13 +38,7 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         
         <footer className={footerStyles.container}>
-          
-          <div id="footer" className={footerStyles.footer_main_text} >
-            © {new Date().getFullYear()}, Built by
-            {` `}
-            <a href="http://www.benbracamonte.com">Ben</a>
-          </div>
-        
+          <a className={footerStyles.button} href="mailto:jenna@drjennawieden.com?subject=Let&#39;s have a conversation">Contact Jenna</a>
         </footer>
       </div>
     </>
